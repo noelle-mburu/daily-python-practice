@@ -1,6 +1,6 @@
 # Daily Python Practice - 60 Day Journey to Data Science
 
-Documenting my journey to master Python fundamentals for data science roles.
+Documenting my journey to master Python fundamentals for data roles.
  
 **Goal:** Build strong Python foundation and prepare for data science job interviews
 
