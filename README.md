@@ -1,4 +1,4 @@
-# Daily Python Practice - 60 Day Journey to Data Science
+# Daily Python Practice - Upskilling in Data Science
 
 Documenting my journey to master Python fundamentals for data roles.
  
@@ -6,43 +6,43 @@ Documenting my journey to master Python fundamentals for data roles.
 
 ## 📊 Progress Tracker
 
-### Week 1: Functions (Nov 7-13)
-- [ ] Day 1: Basic functions - defining, calling, parameters
-- [ ] Day 2: Return values and multiple returns
-- [ ] Day 3: Real-world data cleaning functions
-- [ ] Day 4: Lambda functions and when to use them
-- [ ] Day 5: Error handling in functions
-- [ ] Day 6: Review and practice problems
-- [ ] Day 7: Mini-project - CSV processing tool
+### Functions
+-  Basic functions - defining, calling, parameters
+-  Return values and multiple returns
+-  Real-world data cleaning functions
+-  Lambda functions and when to use them
+-  Error handling in functions
+-  Review and practice problems
+-  Mini-project - CSV processing tool
 
-### Week 2: Loops & Comprehensions (Nov 14-20)
-- [ ] Day 1: For loops fundamentals
-- [ ] Day 2: While loops and when to use them
-- [ ] Day 3: List comprehensions
-- [ ] Day 4: Dictionary comprehensions
-- [ ] Day 5: Nested loops and file processing
-- [ ] Day 6: Loop optimization techniques
-- [ ] Day 7: Mini-project - Multi-file data processor
+### Loops & Comprehensions
+-  For loops fundamentals
+-  While loops and when to use them
+-  List comprehensions
+-  Dictionary comprehensions
+-  Nested loops and file processing
+-  Loop optimization techniques
+-  Mini-project - Multi-file data processor
 
-### Week 3: Object-Oriented Programming (Nov 21-27)
-- [ ] Day 1: Classes and objects basics
-- [ ] Day 2: Methods and attributes
-- [ ] Day 3: __init__ and self explained
-- [ ] Day 4: Building practical classes for data science
-- [ ] Day 5: Inheritance basics
-- [ ] Day 6: Refactoring code with OOP
-- [ ] Day 7: Mini-project - Data pipeline with classes
+### Object-Oriented Programming
+-  Classes and objects basics
+-  Methods and attributes
+-  __init__ and self explained
+-  Building practical classes for data science
+-  Inheritance basics
+-  Refactoring code with OOP
+-  Mini-project - Data pipeline with classes
 
-### Week 4: Data Structures Deep Dive (Nov 28 - Dec 4)
-- [ ] Day 1: Lists - when and how to use
-- [ ] Day 2: Dictionaries - the data scientist's best friend
-- [ ] Day 3: Tuples and sets
-- [ ] Day 4: Nested data structures
-- [ ] Day 5: Choosing the right data structure
-- [ ] Day 6: Data structure performance
-- [ ] Day 7: Mini-project - Data structure playground
+### Data Structures Deep Dive
+-  Lists - when and how to use
+-  Dictionaries - the data scientist's best friend
+-  Tuples and sets
+-  Nested data structures
+-  Choosing the right data structure
+-  Data structure performance
+-  Mini-project - Data structure playground
 
-### Week 5-8: Advanced Topics & Integration (December)
+### Advanced Topics & Integration
 - Pandas operations
 - File I/O and data formats
 - Working with APIs
@@ -54,9 +54,7 @@ Documenting my journey to master Python fundamentals for data roles.
 daily-python-practice/
 ├── README.md                 (This file)
 ├── week1-functions/
-│   ├── day1_basic_functions.py
-│   ├── notes.md             (Learning notes for the week)
-│   └── exercises/           (Practice problems)
+│   ├── functions
 ├── week2-loops/
 ├── week3-oop/
 ├── week4-data-structures/
