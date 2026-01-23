@@ -1,8 +1,8 @@
-# Daily Python Practice - Upskilling in Data Science
+# Upskilling in Data Science
 
 Documenting my journey to master Python fundamentals for data roles.
  
-**Goal:** Build strong Python foundation and prepare for data science job interviews
+**Goal:** Build strong Python foundation
 
 ## 📊 Progress Tracker
 
@@ -10,7 +10,6 @@ Documenting my journey to master Python fundamentals for data roles.
 -  Basic functions - defining, calling, parameters
 -  Return values and multiple returns
 -  Real-world data cleaning functions
--  Lambda functions and when to use them
 -  Error handling in functions
 -  Review and practice problems
 -  Mini-project - CSV processing tool
